@@ -4,7 +4,7 @@
             "name" : "pool.geemexplorer.com",
             "url" : "http://pool.geemexplorer.com/",
             "api" : "http://mine.geemexplorer.com:10001/",
-            "type" : "cryptonight",
+            "type" : "default",
             "miningAddress" : "mine.geemexplorer.com"
         }
     ]
