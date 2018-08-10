@@ -6,6 +6,6 @@
             "api" : "http://mine.geemexplorer.com:10001/",
             "type" : "node.js",
             "miningAddress" : "mine.geemexplorer.com"
-        }
+        },
     ]
 }
