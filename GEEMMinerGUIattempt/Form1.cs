@@ -355,7 +355,7 @@ namespace geemMG
                         arguments += " --noAMD --noNVIDIA";
                     }
 
-                    arguments += " --currency cryptonight_v7";
+                    arguments += " --currency cryptonight";
                     arguments += " -i 6777 -r GEEMMinerGUI";
 
                     foreach (string pool in GetSelectedPools())
