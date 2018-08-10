@@ -306,7 +306,7 @@ namespace geemMG
         {
             if (startBtn.Text == "Start mining!")
             {
-                if (addressRb.Checked && !addressTb.Text.StartsWith("hy") && addressTb.Text.Length != 99)
+                if (addressRb.Checked && !addressTb.Text.StartsWith("G") && addressTb.Text.Length != 99)
                 {
                     MessageBox.Show("Please check your GEEM receiving address.");
                     return;
