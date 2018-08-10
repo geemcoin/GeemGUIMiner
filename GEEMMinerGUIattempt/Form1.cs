@@ -47,7 +47,7 @@ namespace geemMG
         {
             WebClient wc = new WebClient();
             wc.DownloadStringCompleted += new DownloadStringCompletedEventHandler(writePoolsToList);
-            wc.DownloadStringAsync(new Uri("https://raw.githubusercontent.com/geemcoin/geemwallet/master/update.txt"));
+            wc.DownloadStringAsync(new Uri("https://raw.githubusercontent.com/geemcoin/GeemGUIMiner/master/geemcoin-pools.json"));
         }
 
         private async void writePoolsToList(object sender, DownloadStringCompletedEventArgs e)
