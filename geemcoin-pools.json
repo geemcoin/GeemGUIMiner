@@ -3,8 +3,8 @@
         {
             "name" : "pool.geemexplorer.com",
             "url" : "http://pool.geemexplorer.com/",
-            "api" : "http://mine.geemexplorer.com:10001/stats",
-            "type" : "node.js",
+            "api" : "http://mine.geemexplorer.com:10001/",
+            "type" : "forknote",
             "miningAddress" : "mine.geemexplorer.com"
         }
     ]
